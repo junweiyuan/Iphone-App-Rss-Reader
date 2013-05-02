@@ -1,0 +1,87 @@
+TFinal_Project
+v7
+r1
+
+N/Users/balahmadi/Desktop/Final_Project/BookDetailView.xib
+c00000000492A51BE0000000000001F13
+t1227510206
+s7955
+
+N/Users/balahmadi/Desktop/Final_Project/Classes/WhereAmI.xib
+c000000004D6BF8F20000000000001853
+t1298921714
+s6227
+
+N/Users/balahmadi/Desktop/Final_Project/MainWindow.xib
+c000000004D6EFB9E000000000000772D
+t1299119006
+s30509
+
+N/Users/balahmadi/Desktop/Final_Project/RootViewController.xib
+c00000000492A01FC0000000000001D71
+t1227489788
+s7537
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Info.plist
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Resources/BookDetailView.nib
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Resources/RootViewController.nib
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Resources/WhereAmI.nib
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Resources/searchView.nib
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/searchView.xib
+c000000004D6D38DC0000000000004271
+t1299003612
+s17009
+
+NFinal_Project-Info.plist
+c000000004D6BE5E2000000000000038D
+t1298916834
+s909
+
+CCompileXIB /Users/balahmadi/Desktop/Final_Project/BookDetailView.xib
+r0
+
+CCompileXIB /Users/balahmadi/Desktop/Final_Project/Classes/WhereAmI.xib
+r0
+
+CCompileXIB /Users/balahmadi/Desktop/Final_Project/MainWindow.xib
+r0
+
+CCompileXIB /Users/balahmadi/Desktop/Final_Project/RootViewController.xib
+r0
+
+CCompileXIB /Users/balahmadi/Desktop/Final_Project/searchView.xib
+r0
+
+CProcessInfoPlistFile /Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Info.plist Final_Project-Info.plist
+r0
+
+CTouch /Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app
+r0
+

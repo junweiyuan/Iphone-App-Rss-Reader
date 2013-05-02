@@ -1,0 +1,29 @@
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:10:29: error: WebViewContrller.h: No such file or directory
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:11:20: error: URLData.h: No such file or directory
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:13: warning: cannot find interface declaration for 'BrowseViewController'
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:13: error: no declaration of property 'Data' found in the interface
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m: In function '-[BrowseViewController viewDidLoad]':
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:16: error: no super class declared in @interface for 'BrowseViewController'
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:17: error: request for member 'title' in something not a structure or union
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:19: error: 'URLData' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:19: error: (Each undeclared identifier is reported only once
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:19: error: for each function it appears in.)
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:19: error: 'data' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:20: error: request for member 'Data' in something not a structure or union
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:24: warning: class 'BrowseViewController' does not implement the 'UITableViewDelegate' protocol
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:25: warning: class 'BrowseViewController' does not implement the 'UITableViewDataSource' protocol
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:26: error: request for member 'view' in something not a structure or union
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m: In function '-[BrowseViewController tableView:numberOfRowsInSection:]':
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:32: error: 'Data' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:33: warning: control reaches end of non-void function
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m: In function '-[BrowseViewController tableView:cellForRowAtIndexPath:]':
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:46: error: 'Data' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m: In function '-[BrowseViewController tableView:didSelectRowAtIndexPath:]':
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:61: error: 'WebViewContrller' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:61: error: 'WebView' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:65: error: request for member 'navigationController' in something not a structure or union
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m: In function '-[BrowseViewController didReceiveMemoryWarning]':
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:78: error: no super class declared in @interface for 'BrowseViewController'
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m: In function '-[BrowseViewController dealloc]':
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:90: error: 'Data' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/browseViewController.m:91: error: no super class declared in @interface for 'BrowseViewController'

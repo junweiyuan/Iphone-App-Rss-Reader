@@ -1,0 +1,51 @@
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m: In function '-[CategoryDAO add:]':
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:16: error: 'Category' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:16: error: (Each undeclared identifier is reported only once
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:16: error: for each function it appears in.)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:16: error: 'theCat' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:16: error: expected expression before ')' token
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:19: error: 'sqlite3_stmt' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:19: error: 'insert_statement' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:20: error: 'DB' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:21: warning: implicit declaration of function 'sqlite3_open'
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:21: error: 'database' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:21: error: 'SQLITE_OK' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:25: warning: implicit declaration of function 'sqlite3_prepare_v2'
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:27: error: 'SQLITE_ERROR' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:29: warning: implicit declaration of function 'sqlite3_bind_text'
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:29: error: 'SQLITE_TRANSIENT' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:31: warning: implicit declaration of function 'sqlite3_bind_int'
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:32: warning: implicit declaration of function 'sqlite3_step'
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:39: warning: implicit declaration of function 'sqlite3_finalize'
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:40: warning: implicit declaration of function 'sqlite3_close'
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m: In function '-[CategoryDAO update:]':
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:51: error: 'Category' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:51: error: 'theCat' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:51: error: expected expression before ')' token
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:53: error: 'sqlite3_stmt' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:53: error: 'update_statement' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:54: error: 'DB' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:55: error: 'database' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:55: error: 'SQLITE_OK' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:62: error: 'SQLITE_TRANSIENT' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:67: error: 'SQLITE_ERROR' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m: In function '-[CategoryDAO delete:]':
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:84: error: 'Category' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:84: error: 'theCat' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:84: error: expected expression before ')' token
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:87: error: 'sqlite3_stmt' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:87: error: 'delete_statement' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:88: error: 'DB' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:93: error: 'database' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:93: error: 'SQLITE_OK' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m: In function '-[CategoryDAO getAll]':
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:117: error: 'sqlite3_stmt' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:117: error: 'statement' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:119: error: 'DB' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:125: error: 'database' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:125: error: 'SQLITE_OK' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:132: error: 'SQLITE_ROW' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:134: warning: implicit declaration of function 'sqlite3_column_int'
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:135: warning: implicit declaration of function 'sqlite3_column_text'
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:141: error: 'Category' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/CategoryDAO.m:141: error: 'theCat' undeclared (first use in this function)

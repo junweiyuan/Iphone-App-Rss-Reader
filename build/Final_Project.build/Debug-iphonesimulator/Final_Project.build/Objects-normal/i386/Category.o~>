@@ -1,0 +1,4 @@
+/Volumes/NO NAME/Final_Project/Classes/Category.m:14: error: no declaration of property 'catID' found in the interface
+/Volumes/NO NAME/Final_Project/Classes/Category.m:15: error: no declaration of property 'catName' found in the interface
+/Volumes/NO NAME/Final_Project/Classes/Category.m:16: error: no declaration of property 'parentID' found in the interface
+/Volumes/NO NAME/Final_Project/Classes/Category.m:17: error: no declaration of property 'description' found in the interface

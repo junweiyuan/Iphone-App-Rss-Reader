@@ -1,0 +1,4 @@
+/Volumes/NO NAME/Final_Project/Classes/DB.m: In function '+[DB getDBPath]':
+/Volumes/NO NAME/Final_Project/Classes/DB.m:17: error: 'kDbname' undeclared (first use in this function)
+/Volumes/NO NAME/Final_Project/Classes/DB.m:17: error: (Each undeclared identifier is reported only once
+/Volumes/NO NAME/Final_Project/Classes/DB.m:17: error: for each function it appears in.)

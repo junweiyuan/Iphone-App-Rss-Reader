@@ -1,0 +1,170 @@
+TFinal_Project
+v7
+r1
+cCheck dependencies
+
+N/Users/balahmadi/Desktop/Final_Project/BookDetailView.xib
+c00000000492A51BE0000000000001F13
+t1227510206
+s7955
+
+N/Users/balahmadi/Desktop/Final_Project/Classes/WhereAmI.xib
+c000000004D6BF8F20000000000001853
+t1298921714
+s6227
+
+N/Users/balahmadi/Desktop/Final_Project/MainWindow.xib
+c000000004D6EFB9E000000000000772D
+t1299119006
+s30509
+
+N/Users/balahmadi/Desktop/Final_Project/RootViewController.xib
+c00000000492A01FC0000000000001D71
+t1227489788
+s7537
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Info.plist
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Resources/BookDetailView.nib
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Resources/RootViewController.nib
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Resources/WhereAmI.nib
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Resources/searchView.nib
+t2
+s0
+
+N/Users/balahmadi/Desktop/Final_Project/searchView.xib
+c000000004D6D38DC0000000000004271
+t1299003612
+s17009
+
+N/Volumes/NO NAME/Final_Project/BookDetailView.xib
+c00000000492A51BE0000000000001F13
+t1227510206
+s7955
+
+N/Volumes/NO NAME/Final_Project/Classes/WhereAmI.xib
+c000000004D6BF8F20000000000001853
+t1298921714
+s6227
+
+N/Volumes/NO NAME/Final_Project/MainWindow.xib
+c000000004D6EFB9E000000000000772D
+t1299119006
+s30509
+
+N/Volumes/NO NAME/Final_Project/RootViewController.xib
+c00000000492A01FC0000000000001D71
+t1227489788
+s7537
+
+N/Volumes/NO NAME/Final_Project/build/Debug/Final_Project.app
+t2
+s0
+
+N/Volumes/NO NAME/Final_Project/build/Debug/Final_Project.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/NO NAME/Final_Project/build/Debug/Final_Project.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/NO NAME/Final_Project/build/Debug/Final_Project.app/Contents/Resources/BookDetailView.nib
+t2
+s0
+
+N/Volumes/NO NAME/Final_Project/build/Debug/Final_Project.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Volumes/NO NAME/Final_Project/build/Debug/Final_Project.app/Contents/Resources/RootViewController.nib
+t2
+s0
+
+N/Volumes/NO NAME/Final_Project/build/Debug/Final_Project.app/Contents/Resources/WhereAmI.nib
+t2
+s0
+
+N/Volumes/NO NAME/Final_Project/build/Debug/Final_Project.app/Contents/Resources/searchView.nib
+t2
+s0
+
+N/Volumes/NO NAME/Final_Project/searchView.xib
+c000000004D6D38DC0000000000004271
+t1299003612
+s17009
+
+NFinal_Project-Info.plist
+c000000004D6BE5E2000000000000038D
+t1298916834
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320869158#320869158#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.2'1(4@58"error: There is no SDK with the name or path 'iphoneos4.2'320869158#18446744073709551615#0#0(1@0"0(0#1#0"32651513917735028#0"0#
+
+CCompileXIB "/Volumes/NO NAME/Final_Project/BookDetailView.xib"
+r0
+
+CCompileXIB "/Volumes/NO NAME/Final_Project/Classes/WhereAmI.xib"
+r0
+
+CCompileXIB "/Volumes/NO NAME/Final_Project/MainWindow.xib"
+r0
+
+CCompileXIB "/Volumes/NO NAME/Final_Project/RootViewController.xib"
+r0
+
+CCompileXIB "/Volumes/NO NAME/Final_Project/searchView.xib"
+r0
+
+CCompileXIB /Users/balahmadi/Desktop/Final_Project/BookDetailView.xib
+r0
+
+CCompileXIB /Users/balahmadi/Desktop/Final_Project/Classes/WhereAmI.xib
+r0
+
+CCompileXIB /Users/balahmadi/Desktop/Final_Project/MainWindow.xib
+r0
+
+CCompileXIB /Users/balahmadi/Desktop/Final_Project/RootViewController.xib
+r0
+
+CCompileXIB /Users/balahmadi/Desktop/Final_Project/searchView.xib
+r0
+
+CProcessInfoPlistFile "/Volumes/NO NAME/Final_Project/build/Debug/Final_Project.app/Contents/Info.plist" Final_Project-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app/Contents/Info.plist Final_Project-Info.plist
+r0
+
+CTouch "/Volumes/NO NAME/Final_Project/build/Debug/Final_Project.app"
+r0
+
+CTouch /Users/balahmadi/Desktop/Final_Project/build/Debug/Final_Project.app
+r0
+
